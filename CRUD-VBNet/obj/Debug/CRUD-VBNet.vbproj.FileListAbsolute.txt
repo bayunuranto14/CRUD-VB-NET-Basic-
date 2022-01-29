@@ -1,0 +1,11 @@
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\bin\Debug\CRUD-VBNet.exe.config
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\bin\Debug\CRUD-VBNet.exe
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\bin\Debug\CRUD-VBNet.pdb
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\bin\Debug\CRUD-VBNet.xml
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD_VBNet.welcome.resources
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD_VBNet.Resources.resources
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD-VBNet.vbproj.GenerateResource.Cache
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD-VBNet.exe
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD-VBNet.xml
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD-VBNet.pdb
+c:\users\bayun\onedrive\documents\visual studio 2012\Projects\CRUD-VBNet\CRUD-VBNet\obj\Debug\CRUD_VBNet.Dashboard.resources
